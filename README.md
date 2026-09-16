@@ -4,7 +4,7 @@ Physics graduate (UCL) with a focus on computational and quantitative methods �
 
 ## Featured projects
 
-- **[Dissertation — 4th Year Project](https://github.com/aleksej-rodano/4th_year_project_submitted_code)** — Final-year UCL physics research project (submitted code).
+- **[Dissertation — 4th Year Project](https://github.com/aleksej-rodano/4th_year_project_submitted_code)** — Final-year UCL physics research project ([code](https://github.com/aleksej-rodano/4th_year_project_submitted_code), [full report (PDF)](./Dissertation_year4_Aleksej_Rodano.pdf)).
 - **[Practical Machine Learning (PHAS0056)](https://github.com/aleksej-rodano/Practical_Machine_Learning_PHAS0056)** — Applied ML coursework and experiments.
 - **[N-Body Choreographies (PHAS0030)](https://github.com/aleksej-rodano/N_body_choreographies_PHAS0030)** — Numerical simulation of N-body orbital choreographies.
 - **[UCL Physics Notes](https://github.com/aleksej-rodano/UCL_physics_notes)** — Notes from the UCL physics degree.
